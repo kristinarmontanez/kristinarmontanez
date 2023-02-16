@@ -5,4 +5,6 @@ When I'm not doing work, you'll find me hanging out with my dogs, or reading sci
 
 I'm always looking for new opportunities to collaborate with others in the legal and technical communities. If you have a project you'd like to work on together, feel free to get in touch!
 
-![327D5540-F3FC-4BB8-A870-35946EB7E5C4](https://user-images.githubusercontent.com/59376760/219279779-4835057e-d70c-433b-9e37-89354bd3f228.JPG  | width=50)
+<!-- ![327D5540-F3FC-4BB8-A870-35946EB7E5C4](https://user-images.githubusercontent.com/59376760/219279779-4835057e-d70c-433b-9e37-89354bd3f228.JPG) -->
+
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/59376760/219279779-4835057e-d70c-433b-9e37-89354bd3f228.JPG)" width="50" height="50">
