@@ -7,4 +7,4 @@ I'm always looking for new opportunities to collaborate with others in the legal
 
 <!-- ![327D5540-F3FC-4BB8-A870-35946EB7E5C4](https://user-images.githubusercontent.com/59376760/219279779-4835057e-d70c-433b-9e37-89354bd3f228.JPG) -->
 
-<img src="https://user-images.githubusercontent.com/59376760/219279779-4835057e-d70c-433b-9e37-89354bd3f228.JPG" width="300" height="300" margin-left="auto" margin-right="auto">
+<img src="https://user-images.githubusercontent.com/59376760/219279779-4835057e-d70c-433b-9e37-89354bd3f228.JPG" width="300" height="300" class="center">
