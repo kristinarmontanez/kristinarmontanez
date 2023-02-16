@@ -1,0 +1,2 @@
+Hi there! I'm an attorney with a passion for technology and innovation. 
+With my background in computer science, I have a unique perspective on the legal aspects of software development, database and web development and maintenance, and cloud application development. I'm always looking for new opportunities to collaborate with others in the legal and technical communities. If you have a project you'd like to work on together, feel free to get in touch!
