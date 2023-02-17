@@ -1,8 +1,36 @@
-Hi there! I'm an attorney with a passion for technology and innovation. 
-With my background in computer science, I have a unique perspective on the legal aspects of software development, database and web development and maintenance, and cloud application development. 
+<h1 align="center"> Hi! I'm Kristina Montanez </h1>
+
+I'm an attorney with a passion for technology and innovation. With a degree in computer science from Oregon State University, I have a unique perspective on the legal aspects of software development, database and web development and maintenance, and cloud application development. 
+
+<h2 align="center">
+My most popular languages are: 
+</h2>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white">
+    <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
+ </p>   
+ 
+<p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristinarmontanez&theme=vue">
+</p>
+
+
 
 When I'm not doing work, you'll find me hanging out with my dogs, or reading sci-fi fantasy fiction. If you have a nerdy side to you and love pop culture references, we will get along just fine!
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59376760/219279779-4835057e-d70c-433b-9e37-89354bd3f228.JPG" width="300" height="300" align="center">
+ </p> 
+
 I'm always looking for new opportunities to collaborate with others in the legal and technical communities. If you have a project you'd like to work on together, feel free to get in touch!
 
-<img src="https://user-images.githubusercontent.com/59376760/219279779-4835057e-d70c-433b-9e37-89354bd3f228.JPG" width="300" height="300" align="center">
+<p align="center">
+    <img src="https://img.shields.io/badge/-kristinarmontanez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kristina-montanez-law/">
+    <img src="https://img.shields.io/badge/-kristinarmontanez@gmail.com-4438c1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kristinarmontanez@gmail.com">
+</p>
+
