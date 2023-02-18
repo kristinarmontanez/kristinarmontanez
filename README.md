@@ -36,7 +36,7 @@ When I'm not doing work, you'll find me hanging out with my dogs, or reading sci
 I'm always looking for new opportunities to collaborate with others in the legal and technical communities. If you have a project you'd like to work on together, feel free to get in touch!
 
 <p align="center">
-    <a href="www.linkedin.com/in/kristina-montanez-law" target="_blank">
+    <a href="http://www.linkedin.com/in/kristina-montanez-law" target="_blank">
     <img src="https://img.shields.io/badge/-kristinarmontanez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kristina-montanez-law/">
     </a>
     <a href="mailto:kristinarmontanez@gmail.com" target="_blank">
