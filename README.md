@@ -30,7 +30,7 @@ My most popular languages are:
 When I'm not doing work, you'll find me hanging out with my dogs, or reading sci-fi fantasy fiction. If you have a nerdy side to you and love pop culture references, we will get along just fine!
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/59376760/219279779-4835057e-d70c-433b-9e37-89354bd3f228.JPG" width="400" height="300" align="center">
+<img src="https://user-images.githubusercontent.com/59376760/219279779-4835057e-d70c-433b-9e37-89354bd3f228.JPG" width="350" height="300" align="center">
  </p> 
 
 I'm always looking for new opportunities to collaborate with others in the legal and technical communities. If you have a project you'd like to work on together, feel free to get in touch!
