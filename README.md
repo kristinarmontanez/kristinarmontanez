@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Kristina Montanez </h1>
 
-I'm an attorney with a passion for technology and innovation. With a degree in computer science from Oregon State University, I have a unique perspective on the legal aspects of software development, database and web development and maintenance, and cloud application development. 
+I'm a patent attorney with a passion for technology and innovation. With a degree in computer science from Oregon State University, I have a unique perspective on the legal aspects of software development, database managment, web development and maintenance, and cloud application development. 
 
 <h2 align="center">
 My most popular languages are: 
